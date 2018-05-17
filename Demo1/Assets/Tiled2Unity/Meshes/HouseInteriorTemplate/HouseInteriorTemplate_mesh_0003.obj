@@ -1,0 +1,31 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'HouseInteriorTemplate_mesh_0003.obj'
+
+# Vertices (Count = 8)
+v -7 -11 0
+v -8 -11 0
+v -8 -10 0
+v -7 -10 0
+v -6 -11 0
+v -7 -11 0
+v -7 -10 0
+v -6 -10 0
+
+# Texture cooridinates (Count = 6)
+vt 0.4955752 0.01123595
+vt 0.5663717 0.01123595
+vt 0.5663717 0.1011236
+vt 0.4955752 0.1011236
+vt 0.4247788 0.01123595
+vt 0.4247788 0.1011236
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g HouseInteriorTemplate_mesh_0003
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/1/1 7/4/1 8/6/1
+
