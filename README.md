@@ -6,7 +6,7 @@ Created for the author's NUI Galway CS&IT Final Year Project, this is a game aim
 
 You'll need Unity to inspect all the project's aspects in its native development enviorment
 
-[Unity Free Edition] (https://store.unity.com/)
+[Unity Free Edition](https://store.unity.com/)
 
 ## Check Out The Report
 
