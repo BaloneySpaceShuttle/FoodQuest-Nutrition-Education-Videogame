@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/startscene.unity
+    guid: cb54a6b6ba5041c4d854726ed3472ae2
+  - enabled: 1
+    path: Assets/_Scenes/secondscene.unity
+    guid: b06227b6b78123b4892fef7a1972b500
+  - enabled: 1
+    path: Assets/_Scenes/forestscene1.unity
+    guid: 6a6d51b585bbe1944968770b5af9faf8
+  - enabled: 1
+    path: Assets/_Scenes/house2interior.unity
+    guid: 8ee02f2d7dc00e14aaef50bacd284c3a
+  - enabled: 1
+    path: Assets/_Scenes/house3interior.unity
+    guid: 0b60c3f7d06521247866bb2a1e8d572b
+  - enabled: 1
+    path: Assets/_Scenes/house4interior.unity
+    guid: 3e8ac982623f5ef4fbc27611455b4f19
+  - enabled: 1
+    path: Assets/_Scenes/mainmenu.unity
+    guid: bdd900bb1dbcefe40b136e20cf1eb42a
+  - enabled: 1
+    path: Assets/_Scenes/forestboss1.unity
+    guid: ea71123ea08d9604c90e063887bc5612
+  - enabled: 1
+    path: Assets/_Scenes/forestboss2.unity
+    guid: 202a357e38786e84e86565f7c4b9650e
+  - enabled: 1
+    path: Assets/_Scenes/forestscene2.unity
+    guid: 0926d5216e103eb43ad3338a87bd35c1
+  - enabled: 1
+    path: Assets/_Scenes/forestscene3.unity
+    guid: b70225efc2b5a3346b56cb4a6ca54da9
+  - enabled: 1
+    path: Assets/_Scenes/house1interior.unity
+    guid: 6909087cfc6677b4299af57ae5b23fed
+  - enabled: 1
+    path: Assets/_Scenes/lakescene.unity
+    guid: 59709e03b75d72d4d8aa3559f075d92c
+  - enabled: 1
+    path: Assets/_Scenes/village1.unity
+    guid: 2cda028943115de47b1e74b071be8d6d
