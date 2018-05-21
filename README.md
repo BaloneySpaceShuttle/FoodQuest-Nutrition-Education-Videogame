@@ -9,7 +9,7 @@ You'll need Unity to inspect all the project's aspects in its native development
 [Unity Free Edition](https://store.unity.com/)
 
 ## Check Out The Report
-[FoodQuest Report](https://raw.githubusercontent.com/baloneyspaceshuttle/FoodQuest-Nutrition-Education-Videogame/master/img/report/FYP_Report_Liam_Thaker.pdf) - 4BCT Final Year Project
+[FoodQuest Report](https://githubusercontent.com/baloneyspaceshuttle/FoodQuest-Nutrition-Education-Videogame/master/img/report/FYP_Report_Liam_Thaker.pdf) - 4BCT Final Year Project
 
 ## Gameplay
 ![image1](https://raw.githubusercontent.com/baloneyspaceshuttle/FoodQuest-Nutrition-Education-Videogame/master/img/ui1.jpg)
